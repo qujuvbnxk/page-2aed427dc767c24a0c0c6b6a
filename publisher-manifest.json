@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "26e47628de43c064fc92460b",
+  "owner": "qujuvbnxk",
+  "repo": "page-2aed427dc767c24a0c0c6b6a",
+  "title": "冰云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2aed427dc767c24a0c0c6b6a",
+      "a": "冰云",
+      "b": "稳定全球clash加速器",
+      "entity": "冰云",
+      "brand": "冰云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5b1f5a42c5372a806fbe89804dc5fd9a5b93a7b9c527c8b5370a6628dd620af",
+      "content": {
+        "primary_entity": "冰云",
+        "keyword1": "冰云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 内核客户端，订阅链接通用，配置方式各有不同。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "结合设备数量与月度流量需求，选择冰云套餐并完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，畅连全球",
+          "AI_DESCRIPTION": "，冰云提供基础版、旗舰版和团队版三档订阅。基础版每月 100GB 流量并支持 3 台设备；旗舰版每月 300GB 流量并支持 5 台设备，含 IPLC 专线节点；团队版每月 1000GB 流量并支持 20 台设备，适合小型团队协作。",
+          "AI_FEATURES_INTRO": "流量、设备数量和节点线路是选择冰云套餐的三个核心维度。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按个人或团队用量对应选择。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，同时在线设备越多越适合高阶套餐。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线节点，团队版有 VIP 高带宽节点，日常使用可选普通线路。",
+          "AI_FEATURE_TITLE_1": "流量按月",
+          "AI_FEATURE_TITLE_2": "设备并发",
+          "AI_FEATURE_TITLE_3": "节点线路",
+          "AI_GUIDE_INTRO": "从选定套餐到客户端加载订阅，三步完成冰云配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "冰云订阅面向需要跨地区网络连接的用户，按流量和并发设备数划分套餐。基础版适合轻量使用，旗舰版增加 IPLC 专线与流媒体解锁，团队版支持多人多设备协作。",
+          "AI_HERO_SUBTITLE": "冰云订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案降低月均成本",
+          "AI_HIGHLIGHT_3": "订阅链接适配主流 Clash 客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "冰云套餐对比",
+          "AI_STEP_TEXT_1": "确认日常流量与同时在线设备数量，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐的流量额度、设备上限和节点类型，确认满足当前使用场景。",
+          "AI_STEP_TEXT_3": "在所用 Clash 客户端中导入订阅链接，按客户端文档完成节点选择与代理设置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "冰云套餐配置指南",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "冰云套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在订阅有效期内升级套餐，补差价后剩余流量和设备数按新套餐标准执行，具体操作可通过账户面板完成。",
+          "AI_FAQ_QUESTION_2": "流量用完后会断网吗？",
+          "AI_FAQ_ANSWER_2": "每月流量用尽后连接将暂停，用户可选择等待下月流量重置或提前升级套餐获得更多流量。",
+          "AI_FAQ_QUESTION_3": "同一个订阅可以多设备同时使用吗？",
+          "AI_FAQ_ANSWER_3": "可以，但受套餐设备数上限限制。基础版 3 台、旗舰版 5 台、团队版 20 台，超出后需先断开其他设备。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付价格相当于十个月月付费用，权益与月付一致，适合计划长期使用的用户，可节省两个月费用。",
+          "AI_FAQ_QUESTION_5": "如何导入冰云订阅？",
+          "AI_FAQ_ANSWER_5": "在客户端中选择订阅导入功能，粘贴账户提供的订阅地址，保存后更新节点列表即可连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--v2-pk7er34a8iekob.com",
+    "host": "xn--v2-pk7er34a8iekob.com"
+  },
+  "file_hashes": {
+    "index.html": "ba9842f838ea766d69c38c6f6b5a8bd1864616842fc5935d2664e9ecc424bef4",
+    "sitemap.xml": "50061278dc432054c5342ac5ef66a59a191097c1108b6661dc8ba6c39907a370",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8c398545d3fc545ca806a413c1f0162fa71027f043329d84a4d50057a99afb58",
+    "robots.txt": "9ee35e3f199cf0def420eb33d4dba8009ad8794f6e6e4e5f1e0b093d755814a3",
+    "7580cdfbafbbb2d6d69d72fc80250054.txt": "248df4f6790666dec707b2d9d81c18bdf39dce35858044ebf41ab3fbfe9e0ee4"
+  },
+  "revision": "2841b0783f6889c214b93eb4d3942a9dc1b4762878b024b1a1808f0c2f105558"
+}
